@@ -1,0 +1,15 @@
+{
+  "sensores": [
+    {
+      "address": "Rua Caminho da Serpente, 668",
+      "cep": 10000,
+      "date": "2022-04-23T03:00:00.000Z",
+      "volume": "88",
+      "district": "kakaroto",
+      "status": "Crítico",
+      "alert": "* SIM *",
+      "weather": "nublado",
+      "id": 1
+    }
+  ]
+}
