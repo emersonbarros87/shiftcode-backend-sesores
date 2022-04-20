@@ -7,4 +7,6 @@ app.get('/', (req, res) => {
   res.sendFile(port);
 });
 
-app.listen(port);
+app.listen(port, () => {
+  console.log("rodando na porta " + port)
+});
